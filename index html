@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Venkatesh Digital Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="logo">V<span>DS</span></div>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home" class="hero">
+  <div class="hero-content">
+    <p class="tag">DIGITAL • CREATIVE • PROFESSIONAL</p>
+
+    <h1>
+      We Build <span>Digital Experiences</span>
+      That Grow Businesses.
+    </h1>
+
+    <p>
+      Venkatesh Digital Services provides modern websites,
+      digital branding and creative online solutions for businesses.
+    </p>
+
+    <div class="buttons">
+      <a href="#services" class="btn">Our Services</a>
+      <a href="#contact" class="btn outline">Contact Us</a>
+    </div>
+  </div>
+
+  <div class="hero-box">
+    <div class="icon">✦</div>
+    <h2>Digital Solutions</h2>
+    <p>Creative ideas. Modern technology. Real business value.</p>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <p class="tag">ABOUT US</p>
+  <h2>Turning Ideas Into A <span>Digital Presence.</span></h2>
+
+  <p class="about-text">
+    Venkatesh Digital Services is a modern digital service brand
+    focused on helping businesses build a strong and professional
+    online presence.
+  </p>
+
+  <p class="about-text">
+    We combine creative design, modern technology and customer-focused
+    solutions to create useful and attractive digital experiences.
+  </p>
+</section>
+
+<section id="services" class="section">
+  <p class="tag">WHAT WE DO</p>
+  <h2>Our <span>Services</span></h2>
+
+  <div class="cards">
+
+    <div class="card">
+      <div class="number">01</div>
+      <h3>Website Development</h3>
+      <p>
+        Modern, responsive and professional websites
+        for businesses and personal brands.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="number">02</div>
+      <h3>Digital Branding</h3>
+      <p>
+        Creative visual identity and digital branding
+        solutions for your business.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="number">03</div>
+      <h3>Social Media Solutions</h3>
+      <p>
+        Creative social media content and digital
+        solutions to improve your online presence.
+      </p>
+    </div>
+
+    <div class="card">
+      <div class="number">04</div>
+      <h3>Business Support</h3>
+      <p>
+        Practical digital tools and solutions that
+        make business tasks easier.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<section class="stats">
+  <div>
+    <h2>100%</h2>
+    <p>Responsive Design</p>
+  </div>
+
+  <div>
+    <h2>24/7</h2>
+    <p>Digital Presence</p>
+  </div>
+
+  <div>
+    <h2>4+</h2>
+    <p>Core Services</p>
+  </div>
+
+  <div>
+    <h2>1</h2>
+    <p>Goal: Business Growth</p>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <p class="tag">OUR WORK</p>
+  <h2>Sample <span>Projects</span></h2>
+
+  <div class="cards">
+
+    <div class="project">
+      <div class="project-img">WEB</div>
+      <h3>Business Website</h3>
+      <p>Modern responsive company website.</p>
+    </div>
+
+    <div class="project">
+      <div class="project-img">BRAND</div>
+      <h3>Brand Identity</h3>
+      <p>Clean and professional digital branding.</p>
+    </div>
+
+    <div class="project">
+      <div class="project-img">SOCIAL</div>
+      <h3>Social Media</h3>
+      <p>Creative digital content for businesses.</p>
+    </div>
+
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <p class="tag">GET IN TOUCH</p>
+  <h2>Let's Build Something <span>Great.</span></h2>
+
+  <p>
+    Ready to take your business online?
+    Contact Venkatesh Digital Services today.
+  </p>
+
+  <div class="contact-info">
+    <p>📞 +91 6302478149</p>
+    <p>📧 kesanavenkatesh15@gmail.com</p>
+    <p>📍 Andhra Pradesh,bhimavaram India</p>
+  </div>
+
+  <a href="mailto:venkateshdigitalservices@gmail.com"
+     class="btn">
+     Contact Us
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 Venkatesh Digital Services. All Rights Reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
